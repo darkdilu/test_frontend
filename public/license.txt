@@ -1,0 +1,11 @@
+Model Information:
+* title:	Puppet (rigged with Mixamo)
+* source:	https://sketchfab.com/3d-models/puppet-rigged-with-mixamo-4956fe98240d4644b9e2598a7f506f0e
+* author:	SlagPerch 3D (https://sketchfab.com/slagperch3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Puppet (rigged with Mixamo)" (https://sketchfab.com/3d-models/puppet-rigged-with-mixamo-4956fe98240d4644b9e2598a7f506f0e) by SlagPerch 3D (https://sketchfab.com/slagperch3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
